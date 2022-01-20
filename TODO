@@ -1,0 +1,7 @@
+- document static vs dynamically linked executable issues
+-FIXMEs in signals.c
+-save process limits?
+-realtime signals
+-eliminate need for restart.script,
+ which lets us load the code a bit lower than
+ usual to ensure that the brk is manageable
