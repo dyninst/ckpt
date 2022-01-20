@@ -3,7 +3,7 @@
 ## ckpt
 
 ckpt - process checkpoint library  
-www.cs.wisc.edu/~zandy/ckpt  
+www.paradyn.org/projects/legacy/ckpt  
 Copyright (c) 2002-2005 Victor C. Zandy  
 
 ckpt provides user-level process checkpointing functionality to an
